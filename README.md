@@ -1,2 +1,4 @@
 # odin-recipes
-My first Web Dev project on TOP (The Odin Project), It's a basic recipe website that will test my html boilerplate and html elements knowledge.
+My first Web Dev project on The Odin Project(https://www.theodinproject.com).
+
+A recipe website that contains some of my favorite foods and will teach you how to make it step by step.
