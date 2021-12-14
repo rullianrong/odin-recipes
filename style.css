@@ -3,35 +3,66 @@ body {
     background-color: #FFFFFF;
     color: #333333;
 }
+a {
+    text-decoration: none;
+}
     h1 {
     font-size : 24px;
 }
-img {
-    width: 400px;
-    height: auto;
+.home {
+    font-size: 3rem;
+    color: #706C61;
 }
 h1.homepage{
     padding: 20px 0;
     margin: 20px 0 50px 0;
     background-color: #E1F4F3;
-    color: #706C61;
     font-size: 2rem;
-}
-h1.homepage, h1.recipe {
-    text-align: center;
-} 
-h1.recipe {
-    color: #4E9F3D;
-}
-li .homepage,
-h4.recipe{
-    color: #1E5128;
-}
-.home-headers{
-    margin: 20px 10px;
 }
 .home-headers a{
     color: #333333;
-    text-decoration: none;
 }
+
+h1.homepage {
+    text-align: center;
+}
+.home-headers {
+    text-align: center;
+    margin: 30px 0px;
+}
+img {
+    width: 400px;
+    height: auto;
+}
+#recipe-container1 {
+    display: flex;
+    align-items: center; /*horizontal centering*/
+    justify-content: center; /*vertical centering*/
+    flex-direction: row; /*keep the h3 above the textbox*/
+}
+#recipe-container2 {
+    display: flex;
+    align-items: center; /*horizontal centering*/
+    justify-content: center; /*vertical centering*/
+    flex-direction: row; /*keep the h3 above the textbox*/
+}
+#recipe-container3 {
+    display: flex;
+    align-items: center; /*horizontal centering*/
+    justify-content: center; /*vertical centering*/
+    flex-direction: row; /*keep the h3 above the textbox*/
+}
+.img-name {
+    margin: 0px 30px;
+}
+.img-description {
+    margin: 0px 30px;
+}
+.footer {
+    margin-top: 50px;
+}
+
+
+
+
 
