@@ -1,13 +1,3 @@
-@import url(https://db.onlinewebfonts.com/c/fd1ad3a0f95210975d2f5607501020b5?family=Norse);
-@font-face {
-    font-family: "Norse"; 
-    src: url("https://db.onlinewebfonts.com/t/fd1ad3a0f95210975d2f5607501020b5.eot"); 
-    src: url("https://db.onlinewebfonts.com/t/fd1ad3a0f95210975d2f5607501020b5.eot?#iefix") format("embedded-opentype"), 
-    url("https://db.onlinewebfonts.com/t/fd1ad3a0f95210975d2f5607501020b5.woff2") format("woff2"), 
-    url("https://db.onlinewebfonts.com/t/fd1ad3a0f95210975d2f5607501020b5.woff") format("woff"),
-    url("https://db.onlinewebfonts.com/t/fd1ad3a0f95210975d2f5607501020b5.ttf") format("truetype"), 
-    url("https://db.onlinewebfonts.com/t/fd1ad3a0f95210975d2f5607501020b5.svg#Norse") format("svg"); 
-}
 body {
     font-size : 18px;
     background-color: #FFFFFF;
